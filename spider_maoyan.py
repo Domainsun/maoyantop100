@@ -53,7 +53,7 @@ def main(offset):
         # print(item)
         # write_to_file(item)
 
-if __name__ == '__main__':
+if __name__ == '__main__':#git test
 
     # for循环方式来爬取
     # for i in range(10):
